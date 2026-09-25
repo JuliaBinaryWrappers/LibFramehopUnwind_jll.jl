@@ -1,50 +1,50 @@
 [[LibFramehopUnwind]]
 arch = "aarch64"
-git-tree-sha1 = "fc818c44603e95db2be42e8737373a174e7de28c"
+git-tree-sha1 = "e986b7280827c1b029a6e44ce8309d615ed6d4ca"
 os = "macos"
 
     [[LibFramehopUnwind.download]]
-    sha256 = "ad9eba6bf2329268a74198d85ef90e4f741f451b4579b203f22e095327272493"
-    url = "https://github.com/JuliaBinaryWrappers/LibFramehopUnwind_jll.jl/releases/download/LibFramehopUnwind-v0.1.2+0/LibFramehopUnwind.v0.1.2.aarch64-apple-darwin.tar.gz"
+    sha256 = "cd88ad56fae2e768b500baa96663e4b08e7c6af89e1ee563837012deaad169ea"
+    url = "https://github.com/JuliaBinaryWrappers/LibFramehopUnwind_jll.jl/releases/download/LibFramehopUnwind-v0.1.3+0/LibFramehopUnwind.v0.1.3.aarch64-apple-darwin.tar.gz"
 [[LibFramehopUnwind]]
 arch = "aarch64"
-git-tree-sha1 = "c09a76685ef824222761a9f62e9149847421b6ea"
+git-tree-sha1 = "aadfdd3ad3351a85713f47bd08b5a800a4d58ec7"
 libc = "glibc"
 os = "linux"
 
     [[LibFramehopUnwind.download]]
-    sha256 = "c4b2fd02fe703937dae231b35c81239cc41e5dc6abd416f431a48667cd010543"
-    url = "https://github.com/JuliaBinaryWrappers/LibFramehopUnwind_jll.jl/releases/download/LibFramehopUnwind-v0.1.2+0/LibFramehopUnwind.v0.1.2.aarch64-linux-gnu.tar.gz"
+    sha256 = "7d4f7b699399d202c56c708e068269b278446b64c188425fc319511b8890f4b8"
+    url = "https://github.com/JuliaBinaryWrappers/LibFramehopUnwind_jll.jl/releases/download/LibFramehopUnwind-v0.1.3+0/LibFramehopUnwind.v0.1.3.aarch64-linux-gnu.tar.gz"
 [[LibFramehopUnwind]]
 arch = "x86_64"
-git-tree-sha1 = "b4c465f2803ce6ecafc477e60be17b24a83e516a"
+git-tree-sha1 = "7a6cfc3ecb6459941d22ee23568a26b69b98825c"
 os = "macos"
 
     [[LibFramehopUnwind.download]]
-    sha256 = "6f0d5797e2cb3ef596055655d07a75a862b773e85ffd56552322e972b1a4fe49"
-    url = "https://github.com/JuliaBinaryWrappers/LibFramehopUnwind_jll.jl/releases/download/LibFramehopUnwind-v0.1.2+0/LibFramehopUnwind.v0.1.2.x86_64-apple-darwin.tar.gz"
+    sha256 = "a78058c5104d4d7c173175645c9320574f811975bda4c301279ee95bdb6ccbd4"
+    url = "https://github.com/JuliaBinaryWrappers/LibFramehopUnwind_jll.jl/releases/download/LibFramehopUnwind-v0.1.3+0/LibFramehopUnwind.v0.1.3.x86_64-apple-darwin.tar.gz"
 [[LibFramehopUnwind]]
 arch = "x86_64"
-git-tree-sha1 = "a8d587c30fa35aa92a506649507c0848490023cd"
+git-tree-sha1 = "46a0166fc22cffe0baea965bb8883daa1920f8d0"
 libc = "glibc"
 os = "linux"
 
     [[LibFramehopUnwind.download]]
-    sha256 = "c4836d15a06eaed9eadd675b92ba3459cbb702888628e013e5019f5f3fa8f41c"
-    url = "https://github.com/JuliaBinaryWrappers/LibFramehopUnwind_jll.jl/releases/download/LibFramehopUnwind-v0.1.2+0/LibFramehopUnwind.v0.1.2.x86_64-linux-gnu.tar.gz"
+    sha256 = "6759b21e32b1a430e5201d8dc3cb17726093b0e38f879c25699d5047dceaada9"
+    url = "https://github.com/JuliaBinaryWrappers/LibFramehopUnwind_jll.jl/releases/download/LibFramehopUnwind-v0.1.3+0/LibFramehopUnwind.v0.1.3.x86_64-linux-gnu.tar.gz"
 [[LibFramehopUnwind]]
 arch = "x86_64"
-git-tree-sha1 = "8eb203e1f7ad3b6f435890825c55e31c431b14d7"
+git-tree-sha1 = "c487541bb63bb9f2669551a53dc551b3240796e1"
 os = "freebsd"
 
     [[LibFramehopUnwind.download]]
-    sha256 = "238ef77e8824c32a7a5b654c709b63e3c42e84c41cef5496b7485f637c7ce3cb"
-    url = "https://github.com/JuliaBinaryWrappers/LibFramehopUnwind_jll.jl/releases/download/LibFramehopUnwind-v0.1.2+0/LibFramehopUnwind.v0.1.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "2f67e7fd1024c267b8d1f2d21e7693872f5218c75ba41a0e27398e73f8f836bc"
+    url = "https://github.com/JuliaBinaryWrappers/LibFramehopUnwind_jll.jl/releases/download/LibFramehopUnwind-v0.1.3+0/LibFramehopUnwind.v0.1.3.x86_64-unknown-freebsd.tar.gz"
 [[LibFramehopUnwind]]
 arch = "x86_64"
-git-tree-sha1 = "79eb8b23f2de19251408456989e5f23122cd1371"
+git-tree-sha1 = "bce81eb8b261ee69b8207e5b36b622648c900815"
 os = "windows"
 
     [[LibFramehopUnwind.download]]
-    sha256 = "3d6fe227cf59babd82e65daff718650ae4928e9604de60be350cfca245fa1227"
-    url = "https://github.com/JuliaBinaryWrappers/LibFramehopUnwind_jll.jl/releases/download/LibFramehopUnwind-v0.1.2+0/LibFramehopUnwind.v0.1.2.x86_64-w64-mingw32.tar.gz"
+    sha256 = "9044b549a49f6c759b21076888da9809c83c78fd07dd6db93bd0666e1961cee9"
+    url = "https://github.com/JuliaBinaryWrappers/LibFramehopUnwind_jll.jl/releases/download/LibFramehopUnwind-v0.1.3+0/LibFramehopUnwind.v0.1.3.x86_64-w64-mingw32.tar.gz"
